@@ -1,0 +1,8 @@
+execsrc/
+ocrvenv/
+admissionRecord2.xhtml.pdf
+Case 1.pdf
+convertpdf.py
+Dockerfile*
+pdfimage-1.jpg
+popplertest.py
